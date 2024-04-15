@@ -1,5 +1,5 @@
-![image](https://github.com/NSArjun/NearMe/assets/148233801/532c434f-ca19-4cea-b10e-6c91a434cd62)# Ex04 Places Around Me
-## Date: 21-03-2024
+
+## Date: 10-04-2024
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -163,17 +163,20 @@ Execute the programs and publish them.
 </body>
 </html>
 ```
-## OUTPUT
+## OUTPUT:
 
-![image](https://github.com/NSArjun/NearMe/assets/148233801/14572c7d-8e09-48a7-8748-55a4b2a2ea56)
+![WhatsApp Image 2024-04-15 at 20 46 45_145227af](https://github.com/NSArjun/NearMe/assets/148233801/9ccb7d20-b6d0-4cd1-b3d8-8dd13304b663)
 
-![image](https://github.com/NSArjun/NearMe/assets/148233801/b59f1aae-3a96-4a49-bbc5-23f9efc9efe6)
 
-![image](https://github.com/NSArjun/NearMe/assets/148233801/80f6dd4d-15db-4165-984a-ea9a8a19bf08)
+![image](https://github.com/NSArjun/NearMe/assets/148233801/c5b106a7-e07f-495e-9a3f-0c2016ef352b)
 
-![image](https://github.com/NSArjun/NearMe/assets/148233801/a7244d99-74d1-498e-9d8f-5ca1d85dfd98)
+![image](https://github.com/NSArjun/NearMe/assets/148233801/3f757862-d01b-4956-a41f-08ed05ca4d54)
 
-![image](https://github.com/NSArjun/NearMe/assets/148233801/e4b88160-54da-42b5-a5f3-4be2e4c1523a)
+![image](https://github.com/NSArjun/NearMe/assets/148233801/780af315-3515-43d1-a2da-20fbfebee7f2)
+
+![image](https://github.com/NSArjun/NearMe/assets/148233801/69146395-d152-492b-a670-f16e55017ccd)
+
+
 
 
 ## RESULT
