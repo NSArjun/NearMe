@@ -165,7 +165,8 @@ Execute the programs and publish them.
 ```
 ## OUTPUT:
 
-![WhatsApp Image 2024-04-15 at 20 46 45_145227af](https://github.com/NSArjun/NearMe/assets/148233801/9ccb7d20-b6d0-4cd1-b3d8-8dd13304b663)
+
+![image](https://github.com/NSArjun/NearMe/assets/148233801/3630deff-18e6-441f-964a-5644894c5260)
 
 
 ![image](https://github.com/NSArjun/NearMe/assets/148233801/c5b106a7-e07f-495e-9a3f-0c2016ef352b)
